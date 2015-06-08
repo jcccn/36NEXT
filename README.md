@@ -5,11 +5,11 @@ NEXT 是一个快速发现、分享和讨论新产品的社区。在这里，你
 
 上 NEXT，每天刷新更酷的生活方式。
 
-### 在哪里下载
+## 在哪里下载
 
 [<img src="http://websources.qiniudn.com/iOS/963e0ee8-9013-11e4-8091-7ece67d64729.png" width="135" height="40" alt="AppStore"/>](https://itunes.apple.com/cn/app/id1002264477?mt=8)
 
-### 它长什么样的
+## 它长什么样的
 
 <img src="https://github.com/jcccn/36NEXT/raw/master/img/Screenshot_1.jpg" alt="36NEXT Screenshot" width="320" height="568" />
 <img src="https://github.com/jcccn/36NEXT/raw/master/img/Screenshot_2.jpg" alt="36NEXT Screenshot" width="320" height="568" />
@@ -18,22 +18,22 @@ NEXT 是一个快速发现、分享和讨论新产品的社区。在这里，你
 <img src="https://github.com/jcccn/36NEXT/raw/master/img/Screenshot_5.jpg" alt="36NEXT Screenshot" width="320" height="568" />
 <img src="https://github.com/jcccn/36NEXT/raw/master/img/Screenshot_6.jpg" alt="36NEXT Screenshot" width="320" height="568" />
 
-### 有没有安卓版
+## 有没有安卓版
 
 没有！找 36Kr 要去吧。
 
-### 你是谁
+## 你是谁
 
 我是互联网四号流水线的蒋春成，英文名叫 Morgan Stark，尼克名叫 jcccn。我的工作是组装 APP 啊，那些大牌子的 APP 都是我们生产的，什么淘不饱啊，单身够啊，我都有摸过···
 
 这里有我更多的信息：[http://jcccn.me/about](http://jcccn.me/about)
 
-### 你还折腾了些什么玩意儿
+## 你还折腾了些什么玩意儿
 
 很多产品，比如「[开发者头条](http://toutiao.io)」，还有其他的一些，在这里：[http://jcccn.me/products](http://jcccn.me/products)
 
 
-### 我不懂 NEXT 是什么
+## 我不懂 NEXT 是什么
 
 ##### Q: 我可以分享哪些类别的产品？
 
@@ -41,13 +41,10 @@ A：任何同互联网相关的产品都是可以的，广义上包括网站、�
 
 我们欢迎具有以下特质的产品和项目：
 
-新。如 Blink、Point、Navdy、FireChat ；
-
-设计精美。如：Tublme、Ulysses iii、Hanx Writer、Overcast；
-
-简单实用。如：inVison、Slack、Polarr 、白板、Moxtra；
-
-奇葩。如：丧心病狂的 90 后、Neave TV 、360 安全卫士 Mac 版；
+- 新。如 Blink、Point、Navdy、FireChat ；
+- 设计精美。如：Tublme、Ulysses iii、Hanx Writer、Overcast；
+- 简单实用。如：inVison、Slack、Polarr 、白板、Moxtra；
+- 奇葩。如：丧心病狂的 90 后、Neave TV 、360 安全卫士 Mac 版；
 
 我们也并不局限于上述条件，任何你认为好的、能够打动你的产品，都可以分享，我们也希望在 NEXT 上看到更多专业领域内高质量产品，期待你的分享！
 
@@ -73,19 +70,16 @@ A：如未注册账号，您可以通过扫描 NEXT 页面中的微信二维码�
 
 A：提交产品必须包含以下信息：
 
-产品名称
-
-链接：产品官网 (无官网的 App，可直接附上下载链接)
-
-一句话介绍：产品是什么+最大亮点
+- 产品名称
+- 链接：产品官网 (无官网的 App，可直接附上下载链接)
+- 一句话介绍：产品是什么+最大亮点
 
 一句话介绍范例：
 
-Plates by Splitwise - AA时账单可以再细分，让不喝酒的人不用平摊酒钱！
-
-墨客 - 中国版的 Tweetbot
-
-新味 - 让你可以在家制作西餐料理的生鲜电商
+- 开发者头条 - 开发者的首选阅读分享平台
+- Plates by Splitwise - AA时账单可以再细分，让不喝酒的人不用平摊酒钱！
+- 墨客 - 中国版的 Tweetbot
+- 新味 - 让你可以在家制作西餐料理的生鲜电商
 
 请不要使用“最”、“顶级”、“国内最”等形容词，尽可能讲清楚产品解决了什么需求、亮点是什么。
 
@@ -99,15 +93,13 @@ A：点赞：点赞能帮助其他人更好发现高质量的项目，提高发�
 
 A：点赞即收藏，用户点赞过的产品，都会出现在自己的个人主页上。
 
-Q ： 为什么我提交的产品没有通过审核？
+##### Q: 为什么我提交的产品没有通过审核？
 
 A：提交产品后，没有发布通常有以下三种情况：
 
-您所提交的产品不符合我们的审核标准
-
-这个项目已经被提交了：当你所提交的产品，已经被提交且发布时，项目名称框下放会有文字提示
-
-输入的产品官网有误：内测期间，有不少好产品因为链接有误，而无法发布，请仔细确认您所贴的链接是否正确
+- 您所提交的产品不符合我们的审核标准
+- 这个项目已经被提交了：当你所提交的产品，已经被提交且发布时，项目名称框下放会有文字提示
+- 输入的产品官网有误：内测期间，有不少好产品因为链接有误，而无法发布，请仔细确认您所贴的链接是否正确
 
 提示：如若出现同名却不同产品的情况，请以 “xx by xx” 的形式进行提交。提交产品后，需要一定的审核时间，还请耐心等待。
 
@@ -115,9 +107,8 @@ A：提交产品后，没有发布通常有以下三种情况：
 
 A：表明该产品有产品团队的人参与。“参与”是指“：
 
-产品由产品团队成员提交
-
-有团队成员参与点赞、讨论
+- 产品由产品团队成员提交
+- 有团队成员参与点赞、讨论
 
 为方便其他用户与您交流，请在个人设置页面完善职位信息，项目团队成员尽可能的使用公司邮箱注册。
 
