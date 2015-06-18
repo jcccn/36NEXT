@@ -30,7 +30,7 @@ NEXT 是一个快速发现、分享和讨论新产品的社区。在这里，你
 
 ## 你还折腾了些什么玩意儿
 
-很多产品，比如「[开发者头条](http://toutiao.io)」，还有其他的一些，在这里：[http://jcccn.me/products](http://jcccn.me/products)
+很多产品，比如「程序员老黄历」，都在这里：[https://itunes.apple.com/cn/artist/sense-force/id466469978](https://itunes.apple.com/cn/artist/sense-force/id466469978)
 
 
 ## 我不懂 NEXT 是什么
