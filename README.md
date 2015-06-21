@@ -9,6 +9,8 @@ NEXT 是一个快速发现、分享和讨论新产品的社区。在这里，你
 
 [<img src="http://websources.qiniudn.com/iOS/963e0ee8-9013-11e4-8091-7ece67d64729.png" width="135" height="40" alt="AppStore"/>](https://itunes.apple.com/cn/app/id1002264477?mt=8)
 
+<img src="https://github.com/jcccn/36NEXT/raw/master/img/Download_QR.png" width="280" height="280" alt="QR Code"/>
+
 ## 它美吗
 
 <img src="https://github.com/jcccn/36NEXT/raw/master/img/Screenshot_1.jpg" alt="36NEXT Screenshot" width="320" height="568" />
