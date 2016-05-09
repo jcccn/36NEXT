@@ -7,9 +7,9 @@ NEXT 是一个快速发现、分享和讨论新产品的社区。在这里，你
 
 ## 在哪里下载
 
-[<img src="http://websources.qiniudn.com/iOS/963e0ee8-9013-11e4-8091-7ece67d64729.png" width="135" height="40" alt="AppStore"/>](https://itunes.apple.com/cn/app/id1002264477?mt=8)
+此 App 已经完成使命，从 App Store 下架。NEXT 的官方应用已经推出并完善，请下载：
 
-<img src="https://github.com/jcccn/36NEXT/raw/master/img/Download_QR.png" width="280" height="280" alt="QR Code"/>
+[<img src="https://discussions.apple.com/___sbsstatic___/migration-images/129/12976304-1.png" width="135" height="40" alt="AppStore"/>](https://itunes.apple.com/cn/app/id959471913?mt=8)
 
 ## 它美吗
 
